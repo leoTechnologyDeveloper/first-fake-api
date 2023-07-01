@@ -1,12 +1,12 @@
 const people = [
   {
-    image: "/Emma.png",
-    name: "Emma Bostian",
-    city: "Sweden",
-    profession: "Software Engineer",
-    company: "Spotify",
+    image: "/angela.jpg",
+    name: "Angela Diaz",
+    city: "San Juan",
+    profession: "UI Developer",
+    company: "Mega Soft U.L.",
     description:
-      "I've always struggled with learning JavaScript. I've taken many courses but freeCodeCamp's course was the one which stuck. Studying JavaScript as well as data structures and algorithms on freeCodeCamp gave me the skills and confidence I needed to land my dream job as a software engineer at Spotify.",
+      "Tail rump drumstick, pancetta tenderloin pork belly ball tip short ribs pork loin. Beef ribs capicola meatloaf strip steak doner. Rump pork loin jowl shoulder pork chop chislic ball tip beef swine chicken leberkas tongue sausage kielbasa porchetta. Kielbasa tenderloin landjaeger ground round, buffalo bacon boudin",
   },
   {
     image: "/pretty.jpg",
@@ -18,22 +18,22 @@ const people = [
       "Meatloaf biltong fatback swine, doner jerky hamburger short loin. Filet mignon drumstick ham hock, frankfurter t-bone boudin pork loin cow landjaeger cupim porchetta ribeye bresaola. Beef pork tenderloin picanha pork chop ground round. Strip steak meatloaf turducken pork chop biltong kevin leberkas ball tip pork loin.",
   },
   {
-    image: "/Shawn.png",
-    name: "Shawn Wang",
-    city: "Singapore",
-    profession: "Software Engineer",
-    company: "Amazon",
+    image: "/peter.jpg",
+    name: "Peter Nollan",
+    city: "Hawai",
+    profession: "Entrepeneur",
+    company: "CNN",
     description:
-      "It's scary to change careers. I only gained confidence that I could code by working through the hundreds of hours of free lessons on freeCodeCamp. Within a year I had a six-figure job as a Software Engineer. freeCodeCamp changed my life",
+      "Cow ground round jowl, alcatra short loin biltong frankfurter flank turducken buffalo tenderloin corned beef sirloin meatball. Salami ribeye turkey spare ribs tongue ham hock bresaola. Porchetta tongue biltong, landjaeger andouille shank pork loin ball tip.",
   },
   {
-    image: "/Sarah.png",
-    name: "Sarah Chima",
-    city: "Nigeria",
-    profession: "Software Engineer",
-    company: "ChatDesk",
+    image: "/lisa.jpg",
+    name: "Lisa Bennings",
+    city: "Ontario",
+    profession: "Data Scientist",
+    company: "CND Resources",
     description:
-      "freeCodeCamp was the gateway to my career as a software developer. The well-structured curriculum took my coding knowledge from a total beginner level to a very confident level. It was everything I needed to land my first dev job at an amazing company.",
+      "Meatloaf leberkas sausage, chuck porchetta andouille frankfurter sirloin swine spare ribs. Venison hamburger spare ribs shank bacon. Meatball meatloaf corned beef landjaeger jowl pig. Beef shoulder leberkas doner meatball corned beef meatloaf drumstick.",
   },
 ];
 

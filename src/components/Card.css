@@ -1,5 +1,7 @@
 .card{
     display: flex;
+    flex-direction: column;
+    width: 90%;
     gap: 20px;
     max-width: 80%;
     margin: 40px auto;
@@ -18,4 +20,50 @@
     justify-content: center;
     align-items: center;
     padding: 15px;
+}
+
+/* Media Querys ******************/
+
+
+@media only screen and (min-width: 600px){
+
+    .card {
+        flex-direction: column;
+        width: 50%;
+    }
+
+
+    .card .imagecard{
+        width: 100%;
+     }
+
+    .card .cardInfo{
+        background-color: black;
+        padding: 20px;
+        width: 50%;
+        text-align: center;
+    }
+
+
+}
+
+
+
+@media only screen and (min-width: 1024px)  {
+
+    .card {
+        flex-direction: row;
+        width: 80%;
+    }
+
+    .card .imagecard{
+        width: 100%;
+     }
+    
+
+.card .cardInfo{
+    padding: 5px;
+}
+
+
 }
